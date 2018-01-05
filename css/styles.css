@@ -1,0 +1,59 @@
+html, body{
+  height: 100%;
+}
+body{
+  /**/
+}
+.myImg{
+  background-image: url("http://www.watjob.com/i/2017/08/anime-your-name-mitsuha-miyamizu-taki-tachibana-kimi-no-na-wa-wallpaper-background-desktop.jpg"); 
+  /*background-image: url("https://pa1.narvii.com/6314/3ce79cb701e521bf370f96f19d7361a3fb196a5c_hq.gif");*/
+  height: 5%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: relative;
+}
+#phone{
+  width: 35%;
+}
+#onlineIc{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Disc_Plain_green_dark.svg/1000px-Disc_Plain_green_dark.svg.png");
+  /*border-radius: 50%;*/
+  width: 5px;
+  border-radius: 50%;
+  border: solid 5px #76FF04;
+}
+.button{
+  display: inline-block;
+  color: #FFFFFF;
+  background-color: #8E24AA;
+  border: none;
+  height: 50px;
+  width: 33%;
+  font-size: 15px;
+  font-weight: bold;
+}
+.button:hover{
+  background-color: #4A148C;
+  font-size: 17px;
+}
+.but{
+  width: 100%;
+  background-color: #8E24AA
+}
+.but:hover{
+  background-color: #4A148C; 
+}
+.active{
+  display: inline-block;
+  color: #FFFFFF;
+  background-color: #AA00FF; 
+  border: none;
+  height: 50px;
+  width: 33%;
+  font-size: 17px;
+  font-weight: bold;
+}
+td{
+  padding: 15px;
+}
